@@ -46,7 +46,7 @@ class ZPT_HCL(nn.Module):
         pooled_output_feature = F.normalize(pooled_output_feature, dim=2)
         return x, pooled_output_feature
     
-    # another way about ZPT_HCL
+    # Another way about ZPT_HCL (not used)
     # def forward(self, inputs, x_tag):
     #     text_bert_indices, bert_segments_ids = inputs
     #     # x size - [8, 768]

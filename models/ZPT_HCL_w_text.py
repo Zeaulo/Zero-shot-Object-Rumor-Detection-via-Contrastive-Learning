@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # file: ZPT_HCL_w_text.py
-# author: ZhangWenhao <psymhmch@outlook.com>
+# author: Zhang Wenhao <psymhmch@outlook.com>
 # Based on the BERT_PT_HCL.py from binliang <bin.liang@stu.hit.edu.cn>.
 import torch
 import torch.nn as nn

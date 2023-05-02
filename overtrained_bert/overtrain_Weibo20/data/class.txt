@@ -1,0 +1,2 @@
+rumor
+not_rumor
